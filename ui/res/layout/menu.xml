@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+     <CheckBox
+         android:layout_marginTop="30dp"
+        android:id="@+id/chkT1"
+       android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="#ff0000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:text="@string/thing1"/>
+     <CheckBox
+        android:id="@+id/chkT2"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="#ff0000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:text="@string/thing2"/>
+     <CheckBox
+        android:id="@+id/chkT3"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="#ff0000"
+        android:textSize="25dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/thing3"/>
+     <CheckBox
+        android:id="@+id/chkT4"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="#ff0000"
+        android:textSize="25dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/thing4"/>
+     <CheckBox
+        android:id="@+id/chkT5"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:textColor="#ff0000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/thing5"/>
+     <Button
+        android:id="@+id/bSubmit"
+        android:layout_marginTop="30dp"
+       
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="#ff0000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/submit" />
+
+</LinearLayout>

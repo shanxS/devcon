@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Devcons</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Devthon</string>
+     <string name="thing1">chk_thng1</string>
+     <string name="thing2">chk_thng2</string>
+     <string name="thing3">chk_thng3</string>
+     <string name="thing4">chk_thng4</string>
+     <string name="thing5">chk_thng5</string>
+     <string name="submit">Submit</string>
+     <string name="Checkin">Please CheckIn</string>
+     <string name="giri">Image Dot</string>
+     <string name="Menubutton">Options</string>
+     
+</resources>

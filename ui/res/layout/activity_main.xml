@@ -1,0 +1,28 @@
+<LinearLayout 
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:tools="http://schemas.android.com/tools"
+        
+    android:orientation="vertical"   
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    >
+
+    <TextView
+        android:id="@+id/ed"
+        android:textColor="#ff0000"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Checkin" 
+        android:textSize="30dp"
+        
+        />
+    <ImageView 
+        android:id="@+id/ivLogo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+          
+        />
+
+</LinearLayout>
